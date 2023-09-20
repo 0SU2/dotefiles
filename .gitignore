@@ -22,10 +22,12 @@
 
 # ignore all the files in the folder
 
+!.github/
 !.gitignore
 !.zshrc
 !.bashrc
 !.xinitrc
+!README.md
 
 **.config/ranger/colorschemes/__pycache__
 **.config/ranger/plugins/__pycache__
