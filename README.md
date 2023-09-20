@@ -18,4 +18,5 @@ Im just starting using linux, so expected that somethings might broke in other s
 <br>
 
 ## Showcase
-https://raw.githubusercontent.com/0SU2/dotefiles/master/.github/images/2023-09-19_194334-.png
+<img src="https://raw.githubusercontent.com/0SU2/dotefiles/master/.github/images/2023-09-19_194334-.png" alt="Showcase" align="right" width="400px">
+
