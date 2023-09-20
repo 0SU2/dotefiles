@@ -17,5 +17,5 @@ Im just starting using linux, so expected that somethings might broke in other s
 |Aur Helper|[Paru](https://github.com/Morganamilo/paru)|
 
 ## Showcase
-<img src="https://raw.githubusercontent.com/0SU2/dotefiles/master/.github/images/2023-09-19_194334-.png" alt="Showcase" align="center" width="auto">
+<img src="https://raw.githubusercontent.com/0SU2/dotefiles/master/.github/images/2023-09-19_200737-.png" alt="Showcase" align="center" width="auto">
 
