@@ -4,7 +4,7 @@
 Im just starting using linux, so expected that somethings might broke in other systems.
 
 ## Info
-<center>
+
 |Distro|[Arch](https://archlinux.org/)|
 |:---:|:---:|
 |WM|[BSPWM](https://github.com/baskerville/bspwm)|
@@ -15,8 +15,7 @@ Im just starting using linux, so expected that somethings might broke in other s
 |File Manager|[Ranger](https://github.com/ranger/ranger)|
 |Shell|[Zsh](https://archlinux.org/packages/extra/x86_64/zsh/)|
 |Aur Helper|[Paru](https://github.com/Morganamilo/paru)|
-</center>
 
 ## Showcase
-<img src="https://raw.githubusercontent.com/0SU2/dotefiles/master/.github/images/2023-09-19_194334-.png" alt="Showcase" align="center" width="800px">
+<img src="https://raw.githubusercontent.com/0SU2/dotefiles/master/.github/images/2023-09-19_194334-.png" alt="Showcase" align="center" width="auto">
 
