@@ -29,10 +29,6 @@ shift + alt + {b,g,n,p,r,t,w,m,v,k}
 	 OpenApps --nvim, \
 	 OpenApps --music}
 
-# Hide/Show Bar (Polybar and/or eww)
-super + {h,u}
-	HideBar {-h,-u}
-
 # Change transparency on focused window
 ctrl + alt {plus,minus,t}
 	{picom-trans -c -o +3, picom-trans -c -o -1, picom-trans -c -d}

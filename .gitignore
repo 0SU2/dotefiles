@@ -13,6 +13,12 @@
 !.config/mdp
 !.config/ncmpcpp
 !.config/zsh
+!.config/nvim
+!.config/ranger
+!.config/ncmpcpp/config
+!.config/neofetch
+!.config/nitrogen
+!.config/paru
 
 # ignore all the files in the folder
 
@@ -21,6 +27,11 @@
 !.bashrc
 !.xinitrc
 
+**.config/ranger/colorschemes/__pycache__
+**.config/ranger/plugins/__pycache__
+**.config/ranger/plugins/ranger-devicons/__pycache__
+**.config/ranger/plugins/ranger-archives/__pycache__
+**.config/nvim/plugin
 **Pictures/ScreenShots
 **.local/state
 **.local/lib
