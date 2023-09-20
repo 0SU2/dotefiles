@@ -1,0 +1,32 @@
+# ignore all the fles in .config
+/*
+
+!Pictures
+!.local
+!.config
+
+.config/*
+
+# excepte
+!.config/bspwm
+!.config/alacritty
+!.config/mdp
+!.config/ncmpcpp
+!.config/zsh
+
+# ignore all the files in the folder
+
+!.gitignore
+!.zshrc
+!.bashrc
+!.xinitrc
+
+**Pictures/ScreenShots
+**.local/state
+**.local/lib
+**.local/share/iwctl
+**.local/share/nvim
+**.local/share/ranger
+**.local/share/xorg
+**.local/share/recently-used.xbel
+
